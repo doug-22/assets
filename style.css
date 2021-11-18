@@ -14,3 +14,11 @@
 .container-tech img {
     width: 100px;
 }
+
+.container-certificados {
+    width: 100%;
+}
+
+.container-certificados img {
+    width: 25%;
+}
