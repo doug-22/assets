@@ -1,0 +1,16 @@
+.container-capa {
+    width: 100vw;
+    display: inline-flex;
+}
+
+.container-capa img{
+    width: 50%;
+}
+
+.container-tech {
+    width: 100%;
+}
+
+.container-tech img {
+    width: 100px;
+}
